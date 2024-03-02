@@ -117,7 +117,7 @@ Exemplo:
 }
 ```
 ## 🟢Instalação
-Abra um terminal na raiz do projeto e execute os seguintes comandos:
+Com o Docker devidamente instalado e funcionando, abra um terminal na raiz do projeto e execute os seguintes comandos:
 ```
 docker-compose build
 docker-compose up
