@@ -1,8 +1,7 @@
 
-# Desafio Triágil - Pokeapi.co
+# 💻Desafio Triágil - Pokeapi.co
 Resolução do desafio de desenvolvimento API a partir do pokeapi.co para a vaga de estágio na equipe Triágil.
 
-Ao iniciar o projeto, a aplicação está disponível em http://localhost:3000
 
 ### POST /api/teams
 - Permite aos usuários enviar uma solicitação para montar um time de Pokémon;
@@ -117,7 +116,16 @@ Exemplo:
     ]
 }
 ```
-## Stack utilizada
+## 🟢Instalação
+Abra um terminal na raiz do projeto e execute os seguintes comandos:
+```
+docker-compose build
+docker-compose up
+
+```
+A aplicação estará disponível em http://localhost:3000
+## 🟢Stack utilizada
 
 **Back-end:** Node, Express
+
 
